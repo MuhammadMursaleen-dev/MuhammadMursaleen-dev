@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Muhammad Mursaleen</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+Student;Building+Real+World+Projects;Learning+Every+Day" />
+</p>
 # Hi, I'm Muhammad Mursaleen 👋
 
 ## 🚀 About Me
