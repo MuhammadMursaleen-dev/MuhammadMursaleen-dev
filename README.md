@@ -4,52 +4,48 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+Student;Building+Real+World+Projects;Learning+Every+Day" />
 </p>
 
-## 🚀 About Me
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMursaleen-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMursaleen-dev&layout=compact&theme=tokyonight)
+
+## 👨‍💻 About Me
 
 - 🎓 AI Student
 - 🐍 Learning Python from Beginner to Advanced
-- 💻 Building Practical Python Projects
-- 📚 Currently learning OOP, File Handling, JSON and Automation
-- 🎯 Goal: Become a Professional Python Developer and Freelancer
+- 💻 Passionate about Object-Oriented Programming
+- 📂 Building Real-World Python Projects
+- 📚 Currently learning JSON, File Handling, APIs and Automation
+- 🎯 Goal: Become a Professional Python Developer & Freelancer
+## 🛠 Tech Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🛠 Skills
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Python
-- Object-Oriented Programming (OOP)
-- File Handling
-- JSON
-- Git & GitHub
-- Problem Solving
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-## 📂 Featured Projects
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📘 Python Learning Journey
-Complete Python notes, chapter-wise practice, exercises and examples.
+## 🚀 Featured Projects
 
-### ⚡ Python Intermediate Projects
-Intermediate Python projects focused on logic building and problem solving.
+- 📘 Python Learning Journey
+- 🧩 Python Intermediate Projects
+- 🏪 Fruit Store Management System
+- 🏧 ATM Management System
+- 🎓 Student Management System
 
-### 🚀 Python Professional Projects
-Real-world Python applications using OOP, JSON, File Handling and Modular Programming.
-
----
-
-## 📈 Currently Learning
+## 🌱 Currently Learning
 
 - Advanced Python
+- Data Structures & Algorithms
 - APIs
 - Automation
-- Data Structures
-- Machine Learning
-
----
+- Machine Learning (Future Goal)
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/MuhammadMursaleen-dev
-
-⭐ Thanks for visiting my profile!
