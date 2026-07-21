@@ -11,10 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Developer;AI+Student;Building+Real+World+Projects;Learning+Every+Day" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MuhammadMursaleen-dev&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 ## 👨‍💻 About Me
 
 - 🎓 AI Student
