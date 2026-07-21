@@ -24,20 +24,12 @@
 - 📚 Currently learning JSON, File Handling, APIs and Automation
 - 🎯 Goal: Become a Professional Python Developer & Freelancer
 
-## 👨‍💻 About Me
-
-- 🎓 AI Student
-- 🐍 Learning Python from Beginner to Advanced
-- 💻 Passionate about Object-Oriented Programming
-- 📂 Building Real-World Python Projects
-
-<br><br>
 ## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MuhammadMursaleen-dev&theme=tokyonight"/>
 </p>
-
+<br><br>
 ## 🛠 Tech Stack
 
 <p align="center">
