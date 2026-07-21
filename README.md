@@ -1,10 +1,10 @@
 # Hi, I'm Muhammad Mursaleen 👋
 
-## 💻 About Me
+## 🚀 About Me
 
 - 🎓 AI Student
 - 🐍 Learning Python from Beginner to Advanced
-- 🚀 Building Practical Python Projects
+- 💻 Building Practical Python Projects
 - 📚 Currently learning OOP, File Handling, JSON and Automation
 - 🎯 Goal: Become a Professional Python Developer and Freelancer
 
@@ -23,22 +23,29 @@
 
 ## 📂 Featured Projects
 
-- 📘 Python Learning Journey
-- 🧩 Python Intermediate Projects
-- 🚀 Python Professional Projects
+### 📘 Python Learning Journey
+Complete Python notes, chapter-wise practice, exercises and examples.
+
+### ⚡ Python Intermediate Projects
+Intermediate Python projects focused on logic building and problem solving.
+
+### 🚀 Python Professional Projects
+Real-world Python applications using OOP, JSON, File Handling and Modular Programming.
 
 ---
 
-## 🌱 Currently Learning
+## 📈 Currently Learning
 
 - Advanced Python
-- Data Structures
 - APIs
 - Automation
+- Data Structures
+- Machine Learning
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub:
-https://github.com/MuhammadMursaleen-dev
+- GitHub: https://github.com/MuhammadMursaleen-dev
+
+⭐ Thanks for visiting my profile!
