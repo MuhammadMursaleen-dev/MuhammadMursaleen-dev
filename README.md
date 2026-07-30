@@ -1,43 +1,124 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mursaleen</h1>
+# Hi 👋, I'm Muhammad Mursaleen
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+## 🚀 Python Developer | AI Student | Future Machine Learning Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+Developer;AI+Student;Building+Real+World+Projects;Learning+Every+Day" />
-</p>
+I'm a passionate Python developer from Pakistan who enjoys building real-world applications and continuously learning new technologies. My goal is to become a professional Python Developer, Freelancer, and AI Engineer.
+
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 AI Student
+- 🎓 BS Artificial Intelligence Student
 - 🐍 Learning Python from Beginner to Advanced
-- 💻 Passionate about Object-Oriented Programming
+- 💻 Strong interest in Object-Oriented Programming
 - 📂 Building Real-World Python Projects
-- 📚 Currently learning JSON, File Handling, APIs and Automation
-- 🎯 Goal: Become a Professional Python Developer & Freelancer
+- 📚 Learning JSON, File Handling, APIs & Automation
+- 🤖 Future Goal: Machine Learning & Artificial Intelligence
+- 🌱 Currently improving my Problem Solving Skills
 
-</p>
+---
+
+## 🛠️ Technologies & Tools
+
+- Python
+- Git & GitHub
+- JSON
+- File Handling
+- Object-Oriented Programming (OOP)
+- VS Code
+
+---
 
 ## 🚀 Featured Projects
 
-- 📘 Python Learning Journey
-- 🧩 Python Intermediate Projects
-- 🏪 Fruit Store Management System
-- 🏧 ATM Management System
-- 🎓 Student Management System
+### 🏧 ATM Management System Pro
+A complete ATM simulation built with Python.
 
-## 🌱 Currently Learning
+**Features**
+- Create Account
+- Login System
+- Deposit Money
+- Withdraw Money
+- Money Transfer
+- Change PIN
+- Transaction History
+- Delete Account
+- Account Lock after 3 Wrong PIN Attempts
+- JSON Database
+
+🔗 Repository:
+https://github.com/MuhammadMursaleen-dev/ATM-Management-System_Pro
+
+---
+
+### 🎓 Student Management System Professional
+
+**Features**
+- Add Students
+- Search Students
+- Update Records
+- Delete Students
+- Result Management
+- JSON Database
+
+🔗 Repository:
+https://github.com/MuhammadMursaleen-dev/STUDENT_MANAGEMENT-SYSTEM_PROFESSIONAL
+
+---
+
+### 📘 Python Learning Journey
+
+A collection of Python practice programs from beginner to advanced.
+
+🔗 Repository:
+https://github.com/MuhammadMursaleen-dev/Python-Learning-Journey
+
+---
+
+### 📗 Python Intermediate Projects
+
+Collection of intermediate Python projects.
+
+🔗 Repository:
+https://github.com/MuhammadMursaleen-dev/Python-Intermediate-Projects
+
+---
+
+### 📙 Python Professional Projects
+
+Advanced Python projects built while learning.
+
+🔗 Repository:
+https://github.com/MuhammadMursaleen-dev/Python-Professional-Projects
+
+---
+
+## 🎯 Current Learning
 
 - Advanced Python
 - Data Structures & Algorithms
 - APIs
 - Automation
-- Machine Learning (Future Goal)
+- Git & GitHub
+- Machine Learning (Coming Soon)
+
+---
+
+## 📈 GitHub Goals
+
+- ✅ Build 50+ Python Projects
+- ✅ Become a Professional Freelancer
+- ✅ Learn Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Build AI Applications
+
+---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/MuhammadMursaleen-dev
+- GitHub:
+  https://github.com/MuhammadMursaleen-dev
+
+---
+
+⭐ Thanks for visiting my profile!
