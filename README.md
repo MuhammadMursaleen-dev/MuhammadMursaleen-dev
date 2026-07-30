@@ -114,11 +114,32 @@ https://github.com/MuhammadMursaleen-dev/Python-Professional-Projects
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- GitHub:
-  https://github.com/MuhammadMursaleen-dev
+![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMursaleen-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMursaleen-dev&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadMursaleen-dev&theme=tokyonight)
 
 ---
+
+![](https://komarev.com/ghpvc/?username=MuhammadMursaleen-dev&color=blue)
+
+## 💻 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-MuhammadMursaleen--dev-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadMursaleen-dev)
 
 ⭐ Thanks for visiting my profile!
