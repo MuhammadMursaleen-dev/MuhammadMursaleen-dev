@@ -112,19 +112,6 @@ https://github.com/MuhammadMursaleen-dev/Python-Professional-Projects
 - ✅ Build AI Applications
 
 ---
-
-# 📊 GitHub Stats
-
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadMursaleen-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMursaleen-dev&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadMursaleen-dev&theme=tokyonight)
-
----
-
-![](https://komarev.com/ghpvc/?username=MuhammadMursaleen-dev&color=blue)
-
 ## 💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
