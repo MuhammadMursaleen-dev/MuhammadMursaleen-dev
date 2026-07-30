@@ -21,11 +21,13 @@ I'm a passionate Python developer from Pakistan who enjoys building real-world a
 ## 🛠️ Technologies & Tools
 
 - Python
-- Git & GitHub
-- JSON
-- File Handling
 - Object-Oriented Programming (OOP)
+- File Handling
+- JSON
+- Git
+- GitHub
 - VS Code
+- Problem Solving
 
 ---
 
@@ -46,10 +48,7 @@ A complete ATM simulation built with Python.
 - Account Lock after 3 Wrong PIN Attempts
 - JSON Database
 
-🔗 Repository:
-https://github.com/MuhammadMursaleen-dev/ATM-Management-System_Pro
-
----
+🔗 [View Repository](https://github.com/MuhammadMursaleen-dev/ATM-Management-System_Pro)
 
 ### 🎓 Student Management System Professional
 
@@ -142,4 +141,12 @@ https://github.com/MuhammadMursaleen-dev/Python-Professional-Projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-MuhammadMursaleen--dev-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadMursaleen-dev)
 
-⭐ Thanks for visiting my profile!
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMursaleen-dev&theme=tokyo-night)
+
+---
+
+⭐ If you like my projects, don't forget to leave a Star!
