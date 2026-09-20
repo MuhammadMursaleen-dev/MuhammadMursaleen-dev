@@ -233,7 +233,6 @@ My chapter-based Python learning repository containing practice programs, exerci
 🚀 Artificial Intelligence
 
 ---
----
 
 # 🎯 Current Focus
 
@@ -302,8 +301,10 @@ My goal is to gradually move from simple programs toward **structured, practical
 🏗️ Build practical projects
 🔁 Repeat and improve
 
+---
 
 🔥 GitHub Streak
+---
 
 <div align="center"> <img src="https://streak-stats.demolab.com?user=MuhammadMursaleen-dev&theme=tokyonight&hide_border=true" /> </div>
 
@@ -332,12 +333,15 @@ My goal is to gradually move from simple programs toward **structured, practical
 🛠️ Create real-world projects
 📚 Continue learning and improving
 
+---
+
 🛠️ Technologies & Tools
+---
 
 <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" /> </div>
 
 ---
-📬 Contact Me
+<h2>📬 Contact Me</h2>
 
 ---
 
