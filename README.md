@@ -196,7 +196,7 @@ My chapter-based Python learning repository containing practice programs, exerci
 
 # 📈 My Learning Roadmap
 
-```text
+
 🐍 Python Fundamentals
         │
         ▼
@@ -340,7 +340,7 @@ My goal is to gradually move from simple programs toward **structured, practical
 - 🚀 Build more practical Python projects
 - 🐍 Strengthen Python programming
 - ⚙️ Develop useful automation tools
-- 📄 Improve PDF automation skills
+- 📄 Improve PDF automation skills 
 - 📊 Learn Excel and data automation
 - 🔌 Work with APIs
 
