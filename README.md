@@ -2,331 +2,232 @@
 
 # 👋 Hi, I'm Muhammad Mursaleen
 
-### 🐍 Python Developer | 🤖 BS Artificial Intelligence Student | ⚙️ Automation Learner
+### 🐍 Python Developer in Progress | 🤖 BS Artificial Intelligence Student | ⚙️ Python Automation Learner
 
 <p>
-  <a href="https://muhammadmursaleen-dev.github.io">
-    <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit_Website-0A66C2?style=for-the-badge" alt="Portfolio">
-  </a>
   <a href="https://github.com/MuhammadMursaleen-dev">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/muhammad-mursaleen-0684a7434/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://muhammadmursaleen-dev.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MuhammadMursaleen-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Automation-Learner-FF6F00?style=flat-square&logo=robotframework&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Student-8E44AD?style=flat-square&logo=ai&logoColor=white">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 Hi! I'm **Muhammad Mursaleen**, a **BS Artificial Intelligence student** at **MNS University of Engineering and Technology, Multan, Pakistan**.
 
-I am focused on building a strong foundation in **Python programming, software development, automation, Data Structures & Algorithms, and practical project development**.
+I am building my skills around **Python development, automation, software development, problem solving, and practical project development**.
 
-I learn by building real projects, solving programming problems, debugging my code, and continuously improving my skills.
+My learning approach is simple:
 
-### 🎯 My Long-Term Goal
+> **Learn → Practice → Build → Debug → Improve → Repeat**
+
+I learn programming by writing code, building projects, finding errors, understanding why they happen, and improving my existing programs.
+
+---
+
+## 🧠 What I Work With
+
+### 🐍 Python
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Functions-306998?style=for-the-badge">
+  <img src="https://img.shields.io/badge/File%20Handling-4B8BBE?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/Exception%20Handling-FFB000?style=for-the-badge">
+</p>
+
+### ⚙️ Programming & Development
+
+<p>
+  <img src="https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CRUD-0078D4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Modular%20Programming-2E8B57?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Problem%20Solving-E67E22?style=for-the-badge">
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+</p>
+
+### 📂 Automation
+
+<p>
+  <img src="https://img.shields.io/badge/PDF%20Automation-B22222?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Excel%20Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Processing-7952B3?style=for-the-badge">
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏦 ATM Management System
+
+A Python-based ATM management application using **JSON file handling, authentication, account management, transactions and persistent data storage**.
+
+### Features
+
+- 🔐 Customer Login
+- 🔒 Account Lock After Wrong PIN Attempts
+- 👤 Account Creation
+- 🔍 Customer Account Search
+- 📋 Account Management
+- 💰 Balance Checking
+- ➕ Deposit Money
+- ➖ Withdraw Money
+- 🔄 Money Transfer
+- 🔑 Change PIN
+- 📜 Transaction History
+- 🗑️ Delete Account
+- 💾 JSON Data Storage
+
+🔗 **[View ATM Management System](https://github.com/MuhammadMursaleen-dev/ATM-Management-System_Pro)**
+
+---
+
+## 🎓 Student Management System
+
+A Python-based student management system focused on **OOP, JSON database handling, CRUD operations, result management and student statistics**.
+
+### Features
+
+- ➕ Add Students
+- 🔎 Search Students
+- ✏️ Update Student Records
+- 🗑️ Delete Students
+- 📊 Result Management
+- 📈 Student Statistics
+- 🔢 Sorting
+- 💾 JSON Database
+- 🧩 Object-Oriented Programming
+
+🔗 **[View Student Management System](https://github.com/MuhammadMursaleen-dev/STUDENT_MANAGEMENT-SYSTEM_PROFESSIONAL)**
+
+---
+
+## 📚 Library Management System
+
+A modular Python application for managing books, students and borrowing transactions using JSON-based data storage.
+
+### Features
+
+- 🔐 Admin Authentication
+- ➕ Add Books
+- 🔎 Search Books
+- ✏️ Update Books
+- ❌ Delete Books
+- 📚 View Books
+- 👨‍🎓 Student Registration
+- 🔍 Student Search
+- 📖 Borrow Books
+- 📥 Return Books
+- 📜 Transaction History
+- 💾 JSON Database
+
+🔗 **[View Library Management System](https://github.com/MuhammadMursaleen-dev/Library-Management-System-Python)**
+
+---
+
+## 📄 PDF Automation
+
+I am developing Python-based automation tools for common PDF workflows.
+
+### Automation Areas
+
+| Tool | Purpose |
+|---|---|
+| 📎 PDF Merge | Combine PDF files |
+| ✂️ PDF Split | Split PDF pages |
+| 🔄 PDF Rotation | Rotate PDF pages |
+| 💧 Watermarking | Add watermarks |
+| 🗜️ Compression | Reduce PDF size |
+| 🖼️ PDF → Images | Convert PDF pages |
+| 📄 Images → PDF | Create PDF files |
+| 📝 PDF → Word | Convert PDF content |
+| 🔐 Password Protection | Protect PDF files |
+| 🔎 OCR | Extract text from scanned documents |
+| 📑 Page Management | Manage PDF pages |
+
+---
+
+# 📦 Other Projects
+
+### 🐍 Python Professional Projects
+
+A collection of practical Python projects focused on programming logic, modular programming, file handling, JSON and real-world applications.
+
+🔗 **[View Professional Projects](https://github.com/MuhammadMursaleen-dev/Python-Professional-Projects)**
+
+### 🐍 Python Intermediate Projects
+
+Projects created while progressing from Python fundamentals toward more practical programming and problem solving.
+
+🔗 **[View Intermediate Projects](https://github.com/MuhammadMursaleen-dev/Python-Intermediate-Projects)**
+
+### 📖 Python Learning Journey
+
+My chapter-based Python learning repository containing practice programs, exercises and examples covering Python fundamentals through more advanced topics.
+
+🔗 **[View Python Learning Journey](https://github.com/MuhammadMursaleen-dev/Python-Learning-Journey)**
+
+---
+
+# 📈 My Learning Roadmap
 
 ```text
-Python Developer
-       ↓
-Automation & Software Development
-       ↓
-Advanced Python
-       ↓
-Data Structures & Algorithms
-       ↓
-Data Analysis + SQL
-       ↓
-Machine Learning
-       ↓
-Deep Learning
-       ↓
-Artificial Intelligence
-
-🛠️ Technologies & Tools
-🐍 Programming
-� �
-⚙️ Development
-� � � �
-📂 Python & Automation
-�
-Object-Oriented Programming
-File Handling
-JSON
-Exception Handling
-Automation
-PDF Processing
-Excel Automation
-Data Processing
-Problem Solving
-🚀 Featured Projects
-🏧 ATM Management System Pro
-A practical ATM simulation application built with Python, focusing on programming logic, file handling, authentication, transactions, and JSON-based data storage.
-✨ Features
-👤 Create Account
-🔐 Login System
-💰 Deposit Money
-💸 Withdraw Money
-🔄 Money Transfer
-🔑 Change PIN
-📜 Transaction History
-🗑️ Delete Account
-🔒 Account Lock after 3 Wrong PIN Attempts
-🗄️ JSON Database
-🔗 Repository
-👉 View ATM Management System Pro⁠�
-🎓 Student Management System Professional
-A Python-based student management application designed to practice real-world data management and programming logic.
-✨ Features
-➕ Add Students
-🔎 Search Students
-✏️ Update Records
-🗑️ Delete Students
-📊 Result Management
-🗄️ JSON Database
-🔗 Repository
-👉 View Student Management System⁠�
-📄 PDF Automation Toolkit
-A practical Python automation toolkit created to simplify common PDF operations.
-The project contains multiple independent tools for processing and managing PDF documents.
-⚙️ PDF Tools
-Tool
-Purpose
-📎 Merge PDF
-Combine multiple PDF files
-✂️ Split PDF
-Split PDF pages/files
-🔄 Rotate PDF
-Rotate PDF pages
-💧 Watermark PDF
-Add watermarks
-🗜️ Compress PDF
-Reduce PDF file size
-🖼️ PDF → Images
-Convert PDF pages into images
-📄 Images → PDF
-Convert images into PDF
-📝 PDF → Word
-Convert PDF content to Word
-🔐 Password Protection
-Protect PDF files
-🔎 OCR
-Extract text from scanned documents
-📑 Page Manager
-Manage PDF pages
-🔗 Repository
-👉 📄 View PDF Automation Toolkit⁠�
-🎯 Project Goal
-The goal of this project is to learn how Python can be used to automate repetitive document-processing tasks and build useful desktop/file-processing tools.
-📚 Python Learning Journey
-My Python learning repository contains practice programs, exercises, experiments, and code written while developing my programming fundamentals.
-🔗 Repository
-👉 📖 View Python Learning Journey⁠�
-🐍 Python Intermediate Projects
-A collection of projects created while moving from Python fundamentals toward practical and intermediate-level programming.
-🔗 Repository
-👉 📗 View Python Intermediate Projects⁠�
-💻 Python Professional Projects
-A collection of practical Python projects focused on improving programming logic, software development skills, automation, and real-world problem solving.
-🔗 Repository
-👉 📙 View Python Professional Projects⁠�
-📚 Library Management System
-A Python-based project created to practice management-system logic, data handling, and structured programming.
-🔗 Repository
-👉 📚 View Library Management System⁠�
-📈 My Learning Roadmap
-                    🐍 Python Fundamentals
-                            │
-                            ▼
-                  🚀 Python Projects
-                            │
-                            ▼
-                   ⚙️ Automation
-                            │
-                            ▼
-                  📊 Excel Automation
-                            │
-                            ▼
-                    🧠 Advanced Python
-                            │
-                            ▼
-             🌳 Data Structures & Algorithms
-                            │
-                            ▼
-                  📊 Data Analysis + SQL
-                            │
-                            ▼
-                  🤖 Machine Learning
-                            │
-                            ▼
-                   🧠 Deep Learning
-                            │
-                            ▼
-             🚀 Artificial Intelligence
-🎯 Current Learning
-Currently, I am working on:
-🐍 Advanced Python
-🌳 Data Structures & Algorithms
+🐍 Python Fundamentals
+        │
+        ▼
+💻 Programming Practice
+        │
+        ▼
+🚀 Real-World Python Projects
+        │
+        ▼
 ⚙️ Python Automation
-📊 Excel Automation
-🔌 APIs
-💻 Git & GitHub
-🧠 Programming Logic
-📈 Data Analysis — Next Stage
-🤖 Machine Learning — Future Stage
-🧠 My Learning Philosophy
-Learn → Practice → Build → Debug → Improve → Repeat
-I believe programming skills become stronger when concepts are applied through real projects.
-My learning process focuses on:
-🧠 Understanding concepts
-💻 Writing code myself
-🧪 Practicing different problems
-🚀 Building real projects
-🐛 Debugging errors
-🔧 Improving existing projects
-📈 Gradually moving toward advanced technologies
-📊 Development Journey
-🐍 Python Basics
-       │
-       ✓
-       ▼
-💻 Python Practice
-       │
-       ✓
-       ▼
-🚀 Python Projects
-       │
-       ✓
-       ▼
-⚙️ Automation
-       │
-       🚧
-       ▼
+        │
+        ▼
+📊 Excel & Data Automation
+        │
+        ▼
 🧠 Advanced Python
-       │
-       🚧
-       ▼
+        │
+        ▼
 🌳 Data Structures & Algorithms
-       │
-       🚧
-       ▼
-📊 Data Analysis + SQL
-       │
-       ⏳
-       ▼
+        │
+        ▼
+🗄️ SQL & Databases
+        │
+        ▼
+📊 Data Analysis
+        │
+        ▼
 🤖 Machine Learning
-       │
-       ⏳
-       ▼
+        │
+        ▼
 🧠 Deep Learning
-       │
-       ⏳
-       ▼
+        │
+        ▼
 🚀 Artificial Intelligence
-Legend
-Symbol
-Meaning
-✅
-Completed / Practiced
-🚧
-Currently Working
-⏳
-Future Goal
-📂 My GitHub Projects
-Project
-Link
-📚 Library Management System
-View Repository⁠�
-🎓 Student Management System
-View Repository⁠�
-🏧 ATM Management System
-View Repository⁠�
-📄 PDF Automation Toolkit
-View Repository⁠�
-📙 Python Professional Projects
-View Repository⁠�
-📗 Python Intermediate Projects
-View Repository⁠�
-📖 Python Learning Journey
-View Repository⁠�
-📊 GitHub Statistics
-�
-
-�
-￼
-
-
-
-�
-￼
-�
-
-📈 Contribution Graph
-�
-
-�
-￼
-�
-
-🎯 GitHub Goals
-🚀 Build 50+ Python Projects
-💼 Become a Professional Freelancer
-🐍 Become a Strong Python Developer
-⚙️ Build Practical Automation Tools
-📊 Learn Data Analysis & SQL
-🤖 Learn Machine Learning
-🧠 Build AI Applications
-🌍 Contribute to Open Source
-📚 Continuously Improve Programming Skills
-📬 Contact Me
-�
-
-💻 GitHub
-�⁠�
-🔗 LinkedIn
-�⁠�
-💬 WhatsApp
-�⁠�
-📧 Email
-muhammadkhan786business.com@gmail.com
-📱 Phone
-+92 332 7491103
-�
-
-🌐 Visit My Portfolio
-�
-
-�
-
-�
-￼
-�
-
-
-
-
-My skills • projects • learning journey • roadmap • contact
-�
-
-�
-
-⭐ Thanks for Visiting My Profile!
-Muhammad Mursaleen
-BS Artificial Intelligence Student
-Python Developer | Automation Learner | Future AI Engineer
-�
-
-
-🐍 Keep Learning • 💻 Keep Building • 🚀 Keep Improving
-
-
-
-⭐ If you find my projects useful, consider giving them a Star!
