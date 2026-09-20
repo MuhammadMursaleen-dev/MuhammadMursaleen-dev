@@ -2,6 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Mursaleen
 
+
 ### 🐍 Python Developer in Progress | 🤖 BS Artificial Intelligence Student | ⚙️ Python Automation Learner
 
 
@@ -29,7 +30,7 @@
 ---
 
 ## 👨‍💻 About Me
----
+
 
 Hi! I'm **Muhammad Mursaleen**, a **BS Artificial Intelligence student** at **MNS University of Engineering and Technology, Multan, Pakistan**.
 
@@ -44,7 +45,7 @@ I learn programming by writing code, building projects, finding errors, understa
 ---
 
 ## 🧠 What I Work With
----
+
 
 ### 🐍 Python
 
@@ -68,7 +69,7 @@ I learn programming by writing code, building projects, finding errors, understa
 ---
 
 ### 🛠️ Tools
----
+
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -80,7 +81,7 @@ I learn programming by writing code, building projects, finding errors, understa
 ---
 
 ### 📂 Automation
----
+
 
 <p>
   <img src="https://img.shields.io/badge/PDF%20Automation-B22222?style=for-the-badge">
@@ -91,7 +92,7 @@ I learn programming by writing code, building projects, finding errors, understa
 ---
 
 # 🚀 Featured Projects
----
+
 
 ## 🏦 ATM Management System
 
@@ -247,7 +248,6 @@ My chapter-based Python learning repository containing practice programs, exerci
 # 🎯 Current Focus
 
 <h3>Area </h3> 
----
 
 🐍 Python Programming 
 🚀 Python Projects    
@@ -350,14 +350,14 @@ My goal is to gradually move from simple programs toward **structured, practical
 ---
 
 🛠️ Technologies & Tools
----
+
 
 <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" /> </div>
 
 ---
 
 <h2>📬 Contact Me</h2>
----
+
 
 <div align="center"> <a href="https://github.com/MuhammadMursaleen-dev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
