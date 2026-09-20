@@ -50,6 +50,8 @@ A complete ATM simulation built with Python.
 
 🔗 [View Repository](https://github.com/MuhammadMursaleen-dev/ATM-Management-System_Pro)
 
+---
+
 ### 🎓 Student Management System Professional
 
 **Features**
@@ -79,7 +81,8 @@ https://github.com/MuhammadMursaleen-dev/STUDENT_MANAGEMENT-SYSTEM_PROFESSIONAL
 
 🔗 Repository:
 https://github.com/MuhammadMursaleen-dev/PDF-Automation-Toolkit
-  
+
+---  
 
 ### 📘 Python Learning Journey
 
@@ -139,6 +142,8 @@ https://github.com/MuhammadMursaleen-dev/Python-Professional-Projects
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
 
 ## 🌐 Connect With Me
 
