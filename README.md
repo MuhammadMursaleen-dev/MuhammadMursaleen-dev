@@ -239,23 +239,25 @@ My chapter-based Python learning repository containing practice programs, exerci
 
 | Area | Status |
 |------|--------|
-| 🐍 **Python Programming** | 🟢 Practicing |
-| 🚀 **Python Projects** | 🟢 Building |
-| ⚙️ **Python Automation** | 🟢 Practicing |
-| 📄 **PDF Automation** | 🟢 Building |
-| 📊 **Excel Automation** | 🟢 Learning |
-| 🌳 **Data Structures & Algorithms** | 🟡 Learning |
-| 🔌 **APIs** | 🟡 Learning |
-| 💻 **Git & GitHub** | 🟡 Improving |
-| 📊 **Data Analysis** | 🔵 Next Stage |
-| 🤖 **Machine Learning** | 🔵 Future Stage |
-| 🧠 **Deep Learning** | 🔵 Future Stage |
+| 🐍 Python Programming | 🟢 Practicing 
+| 🚀 Python Projects    | 🟢 Building 
+| ⚙️ Python Automation  | 🟢 Practicing 
+| 📄 PDF Automation     | 🟢 Building 
+| 📊 Excel Automation   | 🟢 Learning 
+| 🌳 Data Structures & Algorithms  | 🟡 Learning 
+| 🔌 APIs               | 🟡 Learning 
+| 💻 Git & GitHub       | 🟡 Improving 
+| 📊 Data Analysis      | 🔵 Next Stage 
+| 🤖 Machine Learning   | 🔵 Future Stage 
+| 🧠 Deep Learning      | 🔵 Future Stage 
+
 
 ### Status Legend
 
-🟢 **Practicing / Building**  
-🟡 **Currently Learning**  
-🔵 **Future Stage**
+
+🟢 Practicing / Building  
+🟡 Currently Learning 
+🔵 Future Stage
 
 ---
 
@@ -267,21 +269,21 @@ My chapter-based Python learning repository containing practice programs, exerci
 
 <div align="center">
 
-**Understand**  
+Understand 
 ↓  
-**Practice**  
+Practice  
 ↓  
-**Write Code**  
+Write Code  
 ↓  
-**Find Errors**  
+Find Errors 
 ↓  
-**Debug**  
+Debug  
 ↓  
-**Improve**  
+Improve  
 ↓  
-**Build Projects**  
+Build Projects 
 ↓  
-**Repeat 🔁**
+Repeat 🔁
 
 </div>
 
@@ -357,38 +359,6 @@ My goal is to gradually move from simple programs toward **structured, practical
 - 📁 Build a strong GitHub portfolio
 - 🛠️ Create real-world projects
 - 📚 Keep improving through continuous practice
-
----
-
-# 📂 Repository Collection
-
-<div align="center">
-
-| Repository | Description |
-|------------|-------------|
-| 🐍 [Python Learning Journey](https://github.com/MuhammadMursaleen-dev/Python-Learning-Journey) | Python fundamentals, concepts and practice |
-| 📗 [Python Intermediate Projects](https://github.com/MuhammadMursaleen-dev/Python-Intermediate-Projects) | Intermediate Python projects |
-| 📙 [Python Professional Projects](https://github.com/MuhammadMursaleen-dev/Python-Professional-Projects) | Practical professional-style projects |
-| 🏧 [ATM Management System](https://github.com/MuhammadMursaleen-dev/ATM-Management-System_Pro) | ATM and transaction management system |
-| 🎓 [Student Management System](https://github.com/MuhammadMursaleen-dev/STUDENT_MANAGEMENT-SYSTEM_PROFESSIONAL) | Student records and result management |
-| 📚 [Library Management System](https://github.com/MuhammadMursaleen-dev/Library-Management-System-Python) | Library and borrowing management system |
-
-</div>
-
----
-
-# 🛠️ Technologies & Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" />
-
-</div>
 
 ---
 
