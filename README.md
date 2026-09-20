@@ -310,13 +310,10 @@ My goal is to gradually move from simple programs toward **structured, practical
 
 <div align="center"> <img src="https://streak-stats.demolab.com?user=MuhammadMursaleen-dev&theme=tokyonight&hide_border=true" /> </div>
 
-📈 Contribution Graph
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMursaleen-dev&theme=tokyo-night&hide_border=true&area=true" /> </div>
-
 📊 GitHub Activity
 
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadMursaleen-dev&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-profile-cards.vercel.app/api/cards/profile.username=MuhammadMursaleen-dev&theme=tokyonight" /> </div>
+
 <h2>🎯 Goals </h2>
 
 🐍 Python & Development
@@ -340,13 +337,14 @@ My goal is to gradually move from simple programs toward **structured, practical
 📁 Build a strong GitHub portfolio
 🛠️ Create real-world projects
 📚 Continue learning and improving
-📂 Repository Collection
 
 🛠️ Technologies & Tools
 
 <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" /> </div>
 
+---
 📬 Contact Me
+---
 
 <div align="center"> <a href="https://github.com/MuhammadMursaleen-dev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
@@ -362,5 +360,7 @@ My goal is to gradually move from simple programs toward **structured, practical
 </div>
 <div align="center">
 ⭐ Thanks for Visiting My Profile!
+
+  
 🐍 Keep Learning • 💻 Keep Building • 🚀 Keep Improving
 </div> 
