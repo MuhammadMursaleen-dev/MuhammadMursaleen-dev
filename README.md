@@ -4,6 +4,7 @@
 
 ### 🐍 Python Developer in Progress | 🤖 BS Artificial Intelligence Student | ⚙️ Python Automation Learner
 
+
 <p>
   <a href="https://github.com/MuhammadMursaleen-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -28,6 +29,7 @@
 ---
 
 ## 👨‍💻 About Me
+---
 
 Hi! I'm **Muhammad Mursaleen**, a **BS Artificial Intelligence student** at **MNS University of Engineering and Technology, Multan, Pakistan**.
 
@@ -42,6 +44,7 @@ I learn programming by writing code, building projects, finding errors, understa
 ---
 
 ## 🧠 What I Work With
+---
 
 ### 🐍 Python
 
@@ -62,7 +65,10 @@ I learn programming by writing code, building projects, finding errors, understa
   <img src="https://img.shields.io/badge/Problem%20Solving-E67E22?style=for-the-badge">
 </p>
 
+---
+
 ### 🛠️ Tools
+---
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -71,7 +77,10 @@ I learn programming by writing code, building projects, finding errors, understa
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </p>
 
+---
+
 ### 📂 Automation
+---
 
 <p>
   <img src="https://img.shields.io/badge/PDF%20Automation-B22222?style=for-the-badge">
@@ -82,6 +91,7 @@ I learn programming by writing code, building projects, finding errors, understa
 ---
 
 # 🚀 Featured Projects
+---
 
 ## 🏦 ATM Management System
 
@@ -236,19 +246,20 @@ My chapter-based Python learning repository containing practice programs, exerci
 
 # 🎯 Current Focus
 
-| Area | Status |
-|------|--------|
-| 🐍 Python Programming | 🟢 Practicing 
-| 🚀 Python Projects    | 🟢 Building 
-| ⚙️ Python Automation  | 🟢 Practicing 
-| 📄 PDF Automation     | 🟢 Building 
-| 📊 Excel Automation   | 🟢 Learning 
-| 🌳 Data Structures & Algorithms  | 🟡 Learning 
-| 🔌 APIs               | 🟡 Learning 
-| 💻 Git & GitHub       | 🟡 Improving 
-| 📊 Data Analysis      | 🔵 Next Stage 
-| 🤖 Machine Learning   | 🔵 Future Stage 
-| 🧠 Deep Learning      | 🔵 Future Stage 
+<h3>Area </h3> 
+---
+
+🐍 Python Programming 
+🚀 Python Projects    
+⚙️ Python Automation 
+📄 PDF Automation     
+📊 Excel Automation  
+🌳 Data Structures & Algorithms 
+🔌 APIs              
+💻 Git & GitHub      
+📊 Data Analysis      
+🤖 Machine Learning  
+🧠 Deep Learning     
 
 
 ### Status Legend
@@ -292,6 +303,7 @@ My goal is to gradually move from simple programs toward **structured, practical
 
 🎯 My Approach
 ---
+
 📖 Understand the concept
 ✍️ Practice the concept
 💻 Write the code myself
@@ -308,8 +320,10 @@ My goal is to gradually move from simple programs toward **structured, practical
 
 <div align="center"> <img src="https://streak-stats.demolab.com?user=MuhammadMursaleen-dev&theme=tokyonight&hide_border=true" /> </div>
 
+---
 
 <h2>🎯 Goals </h2>
+---
 
 🐍 Python & Development
 🚀 Build more practical Python projects
@@ -341,8 +355,8 @@ My goal is to gradually move from simple programs toward **structured, practical
 <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" /> </div>
 
 ---
-<h2>📬 Contact Me</h2>
 
+<h2>📬 Contact Me</h2>
 ---
 
 <div align="center"> <a href="https://github.com/MuhammadMursaleen-dev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
