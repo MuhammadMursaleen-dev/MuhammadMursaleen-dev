@@ -232,7 +232,8 @@ My chapter-based Python learning repository containing practice programs, exerci
         ▼
 🚀 Artificial Intelligence
 
-### 🎯 Current Focus
+---
+### **🎯 Current Focus**
 
 | Area                            | Status          |
 | ------------------------------- | --------------- |
