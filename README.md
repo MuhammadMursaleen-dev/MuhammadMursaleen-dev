@@ -323,7 +323,7 @@ My goal is to gradually move from simple programs toward **structured, practical
 ---
 
 <h2>🎯 Goals </h2>
----
+
 
 🐍 Python & Development
 🚀 Build more practical Python projects
