@@ -291,113 +291,70 @@ My goal is to gradually move from simple programs toward **structured, practical
 
 ---
 
-# 📊 GitHub Statistics
+🎯 My Approach
+📖 Understand the concept
+✍️ Practice the concept
+💻 Write the code myself
+🐛 Find and understand errors
+🔧 Debug the problem
+🚀 Improve the solution
+🏗️ Build practical projects
+🔁 Repeat and improve
+📊 GitHub Statistics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadMursaleen-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMursaleen-dev&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" /> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=MuhammadMursaleen-dev&theme=tokyonight&hide_border=true" /> </div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMursaleen-dev&theme=tokyo-night&hide_border=true&area=true" /> </div>
+📊 GitHub Activity
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadMursaleen-dev&theme=tokyonight" /> </div>
+🎯 Goals
+🐍 Python & Development
+🚀 Build more practical Python projects
+🐍 Strengthen Python programming
+⚙️ Develop useful automation tools
+📄 Improve PDF automation skills
+📊 Learn Excel and data automation
+🔌 Learn and work with APIs
+🌳 Computer Science
+🌳 Strengthen Data Structures & Algorithms
+🗄️ Learn SQL and database systems
+📈 Move into Data Analysis
+🤖 AI & Machine Learning
+🤖 Learn Machine Learning
+🧠 Progress toward Deep Learning
+🚀 Continue progressing toward AI
+💼 Professional Growth
+💼 Build freelance-ready automation skills
+🌍 Contribute to open-source projects
+📁 Build a strong GitHub portfolio
+🛠️ Create real-world projects
+📚 Continue learning and improving
+📂 Repository Collection
+Repository	Description
+🐍 Python Learning Journey	Python fundamentals and practice
+📗 Python Intermediate Projects	Intermediate Python projects
+📙 Python Professional Projects	Practical professional-style projects
+🏧 ATM Management System	ATM and transaction management
+🎓 Student Management System	Student records and result management
+📚 Library Management System	Library and borrowing management
+🛠️ Technologies & Tools
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" /> </div>
+📬 Contact Me
+<div align="center"> <a href="https://github.com/MuhammadMursaleen-dev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-<div align="center">
+  
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadMursaleen-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<a href="https://www.linkedin.com/in/muhammad-mursaleen-0684a7434/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMursaleen-dev&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+  
 
-</div>
+<a href="https://muhammadmursaleen-dev.github.io"> <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div> <br> <div align="center">
 
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MuhammadMursaleen-dev&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMursaleen-dev&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadMursaleen-dev&theme=tokyonight" />
-
-</div>
-
----
-
-# 🎯 My Goals
-
-### 💻 Development
-
-- 🚀 Build more practical Python projects
-- 🐍 Strengthen Python programming
-- ⚙️ Develop useful automation tools
-- 📄 Improve PDF automation skills 
-- 📊 Learn Excel and data automation
-- 🔌 Work with APIs
-
-### 🧠 Computer Science & AI
-
-- 🌳 Strengthen Data Structures & Algorithms
-- 🗄️ Learn SQL and database systems
-- 📈 Move into Data Analysis
-- 🤖 Learn Machine Learning
-- 🧠 Progress toward Deep Learning and AI
-
-### 💼 Professional Growth
-
-- 💼 Build freelance-ready automation skills
-- 🌍 Contribute to open-source projects
-- 📁 Build a strong GitHub portfolio
-- 🛠️ Create real-world projects
-- 📚 Keep improving through continuous practice
-
----
-
-# 📬 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/MuhammadMursaleen-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-mursaleen-0684a7434/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://muhammadmursaleen-dev.github.io">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+📧 Email: muhammadkhan786business.com@gmail.com
 
 </div>
-
-<br>
-
 <div align="center">
-
-📧 **Email:** `muhammadkhan786business.com@gmail.com`
-
-</div>
-
----
-
-<div align="center">
-
-# ⭐ Thanks for Visiting My Profile!
-
-### 🐍 Keep Learning • 💻 Keep Building • 🚀 Keep Improving
-
-<br>
-
-**© Muhammad Mursaleen**
-
-</div>
+⭐ Thanks for Visiting My Profile!
+🐍 Keep Learning • 💻 Keep Building • 🚀 Keep Improving
+</div> ```
