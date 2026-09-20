@@ -231,3 +231,21 @@ My chapter-based Python learning repository containing practice programs, exerci
         │
         ▼
 🚀 Artificial Intelligence
+
+### 🎯 Current Focus
+
+| Area                            | Status          |
+| ------------------------------- | --------------- |
+| 🐍 Python Programming           | 🟢 Practicing   |
+| 🚀 Python Projects              | 🟢 Building     |
+| ⚙️ Python Automation            | 🟢 Practicing   |
+| 📄 PDF Automation               | 🟢 Building     |
+| 📊 Excel Automation             | 🟢 Learning     |
+| 🌳 Data Structures & Algorithms | 🟡 Learning     |
+| 🔌 APIs                         | 🟡 Learning     |
+| 💻 Git & GitHub                 | 🟡 Improving    |
+| 📊 Data Analysis                | 🔵 Next Stage   |
+| 🤖 Machine Learning             | 🔵 Future Stage |
+| 🧠 Deep Learning                | 🔵 Future Stage |
+
+
