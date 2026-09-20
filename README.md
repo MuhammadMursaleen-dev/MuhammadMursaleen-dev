@@ -292,6 +292,7 @@ My goal is to gradually move from simple programs toward **structured, practical
 ---
 
 🎯 My Approach
+---
 📖 Understand the concept
 ✍️ Practice the concept
 💻 Write the code myself
@@ -357,7 +358,6 @@ My goal is to gradually move from simple programs toward **structured, practical
 
 <a href="https://muhammadmursaleen-dev.github.io"> <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div> <br> <div align="center">
 
-📧 Email: muhammadkhan786business.com@gmail.com
 
 </div>
 <div align="center">
