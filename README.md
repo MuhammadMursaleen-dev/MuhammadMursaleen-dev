@@ -302,17 +302,11 @@ My goal is to gradually move from simple programs toward **structured, practical
 🏗️ Build practical projects
 🔁 Repeat and improve
 
-📊 GitHub Statistics
-
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadMursaleen-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMursaleen-dev&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" /> </div>
 
 🔥 GitHub Streak
 
 <div align="center"> <img src="https://streak-stats.demolab.com?user=MuhammadMursaleen-dev&theme=tokyonight&hide_border=true" /> </div>
 
-📊 GitHub Activity
-
-<div align="center"> <img src="https://github-profile-cards.vercel.app/api/cards/profile.username=MuhammadMursaleen-dev&theme=tokyonight" /> </div>
 
 <h2>🎯 Goals </h2>
 
@@ -344,6 +338,7 @@ My goal is to gradually move from simple programs toward **structured, practical
 
 ---
 📬 Contact Me
+
 ---
 
 <div align="center"> <a href="https://github.com/MuhammadMursaleen-dev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
