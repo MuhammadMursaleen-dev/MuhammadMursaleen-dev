@@ -65,6 +65,22 @@ https://github.com/MuhammadMursaleen-dev/STUDENT_MANAGEMENT-SYSTEM_PROFESSIONAL
 
 ---
 
+### PDF Automation system
+
+**Features**
+- Images to pdf
+- pdf to images
+- split pdf
+- merge pdf
+- rotate pdf
+- watermarks pdf
+- compress pdf
+- pdf to world
+
+🔗 Repository:
+https://github.com/MuhammadMursaleen-dev/PDF-Automation-Toolkit
+  
+
 ### 📘 Python Learning Journey
 
 A collection of Python practice programs from beginner to advanced.
