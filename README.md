@@ -249,17 +249,17 @@ My chapter-based Python learning repository containing practice programs, exerci
 
 <h3>Area </h3> 
 
-🐍 Python Programming 
-🚀 Python Projects    
-⚙️ Python Automation 
-📄 PDF Automation     
-📊 Excel Automation  
-🌳 Data Structures & Algorithms 
-🔌 APIs              
-💻 Git & GitHub      
-📊 Data Analysis      
-🤖 Machine Learning  
-🧠 Deep Learning     
+- 🐍 Python Programming 
+- 🚀 Python Projects    
+- ⚙️ Python Automation 
+- 📄 PDF Automation     
+- 📊 Excel Automation  
+- 🌳 Data Structures & Algorithms 
+- 🔌 APIs              
+- 💻 Git & GitHub      
+- 📊 Data Analysis      
+- 🤖 Machine Learning  
+- 🧠 Deep Learning     
 
 
 ### Status Legend
